@@ -1,5 +1,6 @@
 # Roteiro 3 - Classificação de Imagens de Gatos e Cachorros com CNN e Transfer Learning
 https://colab.research.google.com/drive/16gcAhSnbFAubT9q0lHbmdIDDh0RrHXlW?usp=sharing
+https://drive.google.com/drive/folders/1dTZQBX3X1thLCA_BNFXrs--9fArzOt_v?usp=sharing
 
 Este projeto utiliza uma Rede Neural Convolucional com **Transfer Learning** baseada no modelo MobileNetV2, pré-treinado no dataset ImageNet, para classificar imagens de gatos e cachorros. Usando a biblioteca TensorFlow e a API funcional do Keras, o modelo é ajustado e treinado com novas camadas para personalizar a tarefa.
 
